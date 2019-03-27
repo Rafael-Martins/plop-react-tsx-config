@@ -1,0 +1,1 @@
+plop-react-tsx-config
